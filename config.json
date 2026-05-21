@@ -1,0 +1,7 @@
+{
+  "app_id": "enterprise-service-v4",
+  "version": "2.4.1",
+  "production_build": true,
+  "api_timeout_ms": 5000,
+  "allowed_hosts": ["localhost", "127.0.0.1", "*.production-server.local"]
+}
